@@ -47,6 +47,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.10.1",
+    "normalize.css": "^8.0.1",
     "strip": "^3.0.0"
   }
 }
